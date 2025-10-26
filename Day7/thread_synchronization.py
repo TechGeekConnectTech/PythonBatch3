@@ -7,11 +7,13 @@ lock=threading.Lock()
 def write_into_file(student_names):
     print(f"Thread {threading.current_thread().name} is opening the file.")
     lock.acquire()
+    print(f"Thread {threading.current_thread().name} has acquired the lock.")
     with open("shared_file.txt","a") as f:
         f.writelines([f"{name}\n" for name in student_names])
 
     f.close()
     lock.release()
+    print(f"Thread {threading.current_thread().name} has released the lock.")
     print("File writing completed.")
 
 students=[]
