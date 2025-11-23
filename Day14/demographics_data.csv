@@ -1,0 +1,101 @@
+State,Age_Group,Gender,Population,Literacy_Rate,Employment_Rate
+Maharashtra,0-14,Male,6259562,0.683,0.4
+Maharashtra,0-14,Female,5778058,0.586,0.442
+Maharashtra,15-29,Male,9056603,0.919,0.484
+Maharashtra,15-29,Female,8359943,0.828,0.3
+Maharashtra,30-44,Male,10234142,0.725,0.478
+Maharashtra,30-44,Female,10234143,0.568,0.299
+Maharashtra,45-59,Male,9303240,0.762,0.542
+Maharashtra,45-59,Female,9303241,0.658,0.379
+Maharashtra,60+,Male,1520265,0.763,0.74
+Maharashtra,60+,Female,1520266,0.833,0.483
+Karnataka,0-14,Male,25027611,0.875,0.631
+Karnataka,0-14,Female,23102412,0.747,0.354
+Karnataka,15-29,Male,14052200,0.851,0.543
+Karnataka,15-29,Female,12971262,0.742,0.397
+Karnataka,30-44,Male,30619627,0.73,0.519
+Karnataka,30-44,Female,30619628,0.556,0.463
+Karnataka,45-59,Male,8083820,0.877,0.464
+Karnataka,45-59,Female,8083820,0.677,0.355
+Karnataka,60+,Male,11721478,0.75,0.679
+Karnataka,60+,Female,11721478,0.804,0.442
+Tamil Nadu,0-14,Male,17805499,0.778,0.46
+Tamil Nadu,0-14,Female,16435847,0.895,0.294
+Tamil Nadu,15-29,Male,12954235,0.82,0.599
+Tamil Nadu,15-29,Female,11957756,0.68,0.488
+Tamil Nadu,30-44,Male,48369481,0.903,0.69
+Tamil Nadu,30-44,Female,48369481,0.891,0.364
+Tamil Nadu,45-59,Male,8535081,0.679,0.668
+Tamil Nadu,45-59,Female,8535082,0.683,0.298
+Tamil Nadu,60+,Male,1075080,0.795,0.724
+Tamil Nadu,60+,Female,1075081,0.61,0.462
+Delhi,0-14,Male,9024753,0.824,0.579
+Delhi,0-14,Female,8330543,0.64,0.306
+Delhi,15-29,Male,10787734,0.761,0.458
+Delhi,15-29,Female,9957909,0.783,0.404
+Delhi,30-44,Male,18911902,0.84,0.479
+Delhi,30-44,Female,18911903,0.636,0.447
+Delhi,45-59,Male,12353881,0.857,0.706
+Delhi,45-59,Female,12353882,0.691,0.387
+Delhi,60+,Male,28306,0.872,0.741
+Delhi,60+,Female,28307,0.896,0.5
+Gujarat,0-14,Male,19611384,0.81,0.503
+Gujarat,0-14,Female,18102817,0.612,0.294
+Gujarat,15-29,Male,10682591,0.908,0.706
+Gujarat,15-29,Female,9860854,0.713,0.276
+Gujarat,30-44,Male,23467625,0.915,0.57
+Gujarat,30-44,Female,23467626,0.704,0.352
+Gujarat,45-59,Male,5553744,0.76,0.584
+Gujarat,45-59,Female,5553744,0.762,0.367
+Gujarat,60+,Male,192678,0.919,0.511
+Gujarat,60+,Female,192679,0.752,0.325
+Rajasthan,0-14,Male,7826444,0.687,0.675
+Rajasthan,0-14,Female,7224411,0.827,0.325
+Rajasthan,15-29,Male,9767173,0.671,0.746
+Rajasthan,15-29,Female,9015852,0.638,0.267
+Rajasthan,30-44,Male,10152449,0.749,0.739
+Rajasthan,30-44,Female,10152449,0.828,0.37
+Rajasthan,45-59,Male,4906063,0.742,0.548
+Rajasthan,45-59,Female,4906063,0.556,0.43
+Rajasthan,60+,Male,218668,0.68,0.582
+Rajasthan,60+,Female,218669,0.748,0.25
+West Bengal,0-14,Male,27069376,0.735,0.566
+West Bengal,0-14,Female,24987117,0.55,0.395
+West Bengal,15-29,Male,10816186,0.75,0.537
+West Bengal,15-29,Female,9984173,0.641,0.382
+West Bengal,30-44,Male,17881996,0.719,0.447
+West Bengal,30-44,Female,17881996,0.862,0.348
+West Bengal,45-59,Male,12423138,0.673,0.481
+West Bengal,45-59,Female,12423138,0.658,0.442
+West Bengal,60+,Male,40622,0.657,0.567
+West Bengal,60+,Female,40623,0.693,0.492
+Uttar Pradesh,0-14,Male,23356965,0.652,0.401
+Uttar Pradesh,0-14,Female,21560277,0.756,0.323
+Uttar Pradesh,15-29,Male,37168121,0.7,0.64
+Uttar Pradesh,15-29,Female,34309035,0.735,0.479
+Uttar Pradesh,30-44,Male,8045342,0.899,0.654
+Uttar Pradesh,30-44,Female,8045342,0.594,0.417
+Uttar Pradesh,45-59,Male,858993,0.858,0.667
+Uttar Pradesh,45-59,Female,858993,0.642,0.41
+Uttar Pradesh,60+,Male,898100,0.835,0.535
+Uttar Pradesh,60+,Female,898100,0.782,0.272
+Kerala,0-14,Male,12391364,0.857,0.428
+Kerala,0-14,Female,11438184,0.741,0.443
+Kerala,15-29,Male,35013273,0.935,0.644
+Kerala,15-29,Female,32319945,0.585,0.272
+Kerala,30-44,Male,11936992,0.869,0.475
+Kerala,30-44,Female,11936993,0.707,0.494
+Kerala,45-59,Male,6117856,0.896,0.696
+Kerala,45-59,Female,6117856,0.851,0.405
+Kerala,60+,Male,1102991,0.873,0.526
+Kerala,60+,Female,1102992,0.899,0.32
+Punjab,0-14,Male,28419326,0.727,0.424
+Punjab,0-14,Female,26233224,0.778,0.376
+Punjab,15-29,Male,12093357,0.82,0.416
+Punjab,15-29,Female,11163099,0.821,0.308
+Punjab,30-44,Male,15198579,0.75,0.48
+Punjab,30-44,Female,15198579,0.881,0.292
+Punjab,45-59,Male,16404960,0.87,0.486
+Punjab,45-59,Female,16404961,0.699,0.499
+Punjab,60+,Male,13513664,0.68,0.708
+Punjab,60+,Female,13513664,0.881,0.425
