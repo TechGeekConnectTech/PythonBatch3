@@ -1,0 +1,38 @@
+[
+    {
+        "student_id": 1,
+        "student_name": "Ajay",
+        "student_age": 21,
+        "student_marks": 89
+    },
+    {
+        "student_id": 2,
+        "student_name": "Sachin",
+        "student_age": 20,
+        "student_marks": 91
+    },
+    {
+        "student_id": 3,
+        "student_name": "Rahul",
+        "student_age": 22,
+        "student_marks": 95
+    },
+    {
+        "student_id": 4,
+        "student_name": "Manish",
+        "student_age": 19,
+        "student_marks": 30
+    },
+    {
+        "student_id": 5,
+        "student_name": "Mangesh",
+        "student_age": 19,
+        "student_marks": 34
+    },
+    {
+        "student_id": 6,
+        "student_name": "Mayur",
+        "student_age": 23,
+        "student_marks": 100
+    }
+]
